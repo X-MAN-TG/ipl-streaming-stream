@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const db = firebase.firestore();
 
   const config = {
-    streamUrl: 'https://v18tataplaysyndication.akamaized.net/bpk-tv/StarSports_2_Hin_HD_voot_MOB/output03/hdntl=exp=1744631889~acl=%2F*~data=hdntl~hmac=6ccd2c67d51f4f07c078a9f2145449815fe1a047dfc72d38cc1f29121d6f42b9/StarSports_2_Hin_HD_voot_MOB-audio_108038_hin=108000-video=1275600.m3u8',
+    streamUrl: 'https://ee4ee8c03a26.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.755921704393.channel.LOohfipmCQDP.m3u8',
     autoPlay: false,
     maxRetries: 3,
     retryDelay: 3000
