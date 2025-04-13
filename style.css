@@ -1,0 +1,21 @@
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+.preview {
+  padding: 10px;
+  margin: 10px;
+}
+
+#chat-input {
+  margin-right: 10px;
+}
+
+#chat-messages {
+  margin-top: 10px;
+}
+
+#chat-send {
+  background-color: #4CAF50;
+}
